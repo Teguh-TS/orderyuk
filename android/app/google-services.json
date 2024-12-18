@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497620794729",
+    "project_id": "makanyuk-f8834",
+    "storage_bucket": "makanyuk-f8834.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497620794729:android:4068ecdabbee498138d1f8",
+        "android_client_info": {
+          "package_name": "com.example.demo_modul2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdL24j9_bm3TtPQ3yMS9XbKPDHqEI_RdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

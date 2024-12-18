@@ -1,0 +1,53 @@
+name: makanyuk
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  http: ^1.2.2
+  webview_flutter: ^3.0.4
+  url_launcher: ^6.0.20
+  #get storage package
+  get_storage: ^2.1.1
+  #image picker package
+  image_picker: ^1.0.8
+  flutter_rating_bar: ^4.0.1
+  # video player package
+  video_player: ^2.9.1
+  # speech to text package
+  speech_to_text: ^6.6.2
+  # permission handler 
+  permission_handler: ^11.3.1
+  audioplayers: ^6.1.0 
+  geolocator: ^10.0.0
+  geocoding: ^3.0.0
+  google_maps_flutter: ^2.10.0
+  firebase_core: ^3.8.1
+  firebase_auth: ^5.3.4
+  connectivity_plus: ^6.1.1
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+  - lib/assets/home_background.jpg
+  - lib/assets/food_list_background.jpg
+  - lib/assets/order_background.png
+  - lib/assets/resto.jpg
+  - lib/assets/resto2.jpg
+  - lib/assets/order_ready5.ogg
+  - web/assets/order_ready1.ogg
+  - web/assets/order_ready2.ogg
+  - web/assets/order_ready3.ogg
+  - web/assets/order_ready4.ogg
+  - web/assets/order_ready5.ogg
